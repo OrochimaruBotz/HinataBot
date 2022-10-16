@@ -6,16 +6,8 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['62895604670507', '️Oᴡɴᴇʀ One', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Two', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Three', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Four', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Five', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Six', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Seven', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Eight', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Nine', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Teen', true]
+  ['6288804947282', '️Oᴡɴᴇʀ One', true],
+  ['62888049472823', '️Oᴡɴᴇʀ Two', true],
 ]
 global.mods = []
 global.prems = []
@@ -76,14 +68,14 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '6282218416968'
-global.nomorown = '62895604670507'
-global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '62888049472824'
+global.nomorown = '6288804947282'
+global.namebot = 'HumanzBotzMD'
+global.nameown = '「 Humanz 」'
 
 /*Watermark*/
-global.wm = '                「 ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 ᴴ umanzBotzMD あ⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Humanz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
@@ -425,9 +417,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ ᴴ umanzBotz ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ X Claraa'
+global.author = 'ᴴ umanzBotz⁻ ᴹ ᴰ X Humnz'
 global.multiplier = 69
 
 /*Pesan*/
@@ -440,16 +432,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/'
 
 /*Donasi*/
 global.saweria = '-'
-global.dana = ['0895604670507']
-global.pulsa = ['0895604670507']
+global.dana = ['088804947282']
+global.pulsa = ['088804947282']
 global.trakteer = '-'
 global.paypal = '-'
-global.gopay = '0895604670507'
-global.pdana = '0895604670507'
+global.gopay = '088804947282'
+global.pdana = '088804947282'
 global.povo = '-'
-global.pgopay = '0895604670507'
-global.ppulsa = '0895604670507'
-global.ppulsa2 = '0895604670507'
+global.pgopay = '088804947282'
+global.ppulsa = '088804947282'
+global.ppulsa2 = '088804947282'
 global.psaweria = '-'
 
 /*Emoji*/
